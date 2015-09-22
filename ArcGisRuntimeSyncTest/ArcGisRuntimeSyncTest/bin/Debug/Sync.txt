@@ -1,0 +1,8 @@
+3/9/2015 9:26:14 AM: Geodatabase: Replica created, starting download.
+3/9/2015 9:26:14 AM: Measured time: 47148.7144 ms.
+3/9/2015 9:31:40 AM: Geodatabase: Replica created, starting download.
+3/9/2015 9:31:41 AM: Measured time: 43032.3028 ms.
+3/9/2015 10:17:20 AM: Geodatabase: Replica created, starting download.
+3/9/2015 10:17:20 AM: Measured time: 38258.8255 ms.
+3/9/2015 10:18:03 AM: Geodatabase: Replica created, starting download.
+3/9/2015 10:18:04 AM: Measured time: 32411.2408 ms.
